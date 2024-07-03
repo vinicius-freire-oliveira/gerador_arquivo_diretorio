@@ -1,0 +1,1 @@
+# gerador_arquivo_diretorio
